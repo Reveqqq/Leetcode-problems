@@ -1,0 +1,6 @@
+)
+    print(sol.maxDistToClosest(seats = [1,0]))
+    print(sol.maxDistToClosest(seats = [0,1]))
+    print(sol.maxDistToClosest(seats = [1,0,0,0,1,0,1]))
+    print(sol.maxDistToClosest(seats = [0,0,0,1,1,0,1]))
+    print(sol.maxDistToClosest(seats = [1,0,0,1,0,0,0]))
